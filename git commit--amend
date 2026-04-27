@@ -1,0 +1,11 @@
+[33mcommit ffd9cbd6c19f8fa7152b53f8732684429d381d58[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MayconSouza27 <franciskomaycon@gmail.com>
+Date:   Tue Apr 21 02:43:28 2026 -0300
+
+    Cria uma entidade no banco de dados apartir do NinjaModel [Aula3]
+
+[33mcommit b7385d515424bd5448623a36a330b0b4182055a9[m
+Author: MayconSouza27 <franciskomaycon@gmail.com>
+Date:   Tue Apr 21 00:17:14 2026 -0300
+
+    Primeiro commit do projeto
